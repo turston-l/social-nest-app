@@ -1,6 +1,6 @@
 ﻿# Social Nest App
  
-![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Social Nest coding challenge](./images/icons-png/user-white.png)
 
 ## Designing a Social Networking App
 
